@@ -5,7 +5,9 @@
     {
       "slug": "claudia",
       "brand": "Claudia",
-      "exec": "https://script.google.com/macros/s/AKfycbzxvm3f8XvSgAkf4AhM3urkpdeBRoIPN2pUa-RC8aaDkitzmwvDp0TlqwF4M9tSeIuSbQ/exec"
+      "exec": "https://script.google.com/macros/s/AKfycbzxvm3f8XvSgAkf4AhM3urkpdeBRoIPN2pUa-RC8aaDkitzmwvDp0TlqwF4M9tSeIuSbQ/exec",
+      "scriptId": "1uLzE2B3kFx82TDyqGX86V_-SeRfeuVji0GXwCMPlXXPPqQKlgyrfJ6f_",
+      "deploymentId": "AKfycbzxvm3f8XvSgAkf4AhM3urkpdeBRoIPN2pUa-RC8aaDkitzmwvDp0TlqwF4M9tSeIuSbQ"
     }
   ]
 }
