@@ -65,7 +65,7 @@ dan **Google Apps Script API** menyala di akun itu. Langkah lengkap: `docs/libra
 
 ## Dasbor pemilik: xnk.web.id/adminxnk
 
-Isi `"pusatUrl"` di `hub.json` dengan link /exec XNK Pusat (repo XNK: `docs/library/Pusat.md`). Halaman
+Isi `"pusatUrl"` di `hub.json` dengan link /exec XNK HQ (dulu bernama XNK Pusat) (repo XNK: `docs/library/Pusat.md`). Halaman
 `xnk.web.id/adminxnk/` menampilkan status semua coach setelah login PIN pemilik; tanpa `pusatUrl` halaman itu hanya
 memberi tahu bahwa XNK Pusat belum diatur.
 
@@ -96,7 +96,7 @@ Isi `contactUrl` di `hub.json` dengan link `https://` (mis. link WhatsApp bisnis
 
 ## Catatan
 
-- Semua coach berbagi satu domain, jadi tiap halaman coach diberi awalan penyimpanan per slug di browser (login, salinan offline, antrean catatan). Karena itu **coach tidak boleh memasang JavaScript sendiri** di situs ini. Tampilan hanya bisa diubah lewat nama usaha.
+- Semua coach berbagi satu domain, jadi tiap halaman coach diberi awalan penyimpanan per slug di browser (login, salinan offline, antrean catatan). Karena itu **coach tidak boleh memasang JavaScript sendiri** di situs ini. Tampilan hanya bisa diubah lewat nama usaha, warna aksen, logo dan tempat (lihat di atas).
 - Situs dibangun ulang setiap hari dari kode XNK terbaru, dan setiap kali `hub.json` berubah.
 - Pustaka gerakan, makanan dan peta otot disajikan dari situs ini sendiri (`/_lib/`), tidak bergantung pada xnk.my.id.
-- Notifikasi push ke HP belum tersedia di situs coach.
+- Notifikasi push ke HP tersedia sejak T-2240 dan menyala per coach setelah pemilik menekan **Nyalakan push** di `xnk.web.id/adminxnk` (workflow **Push XNK**). Lengkapnya: `docs/push/Setup.md` di repo XNK.
