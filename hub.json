@@ -34,7 +34,9 @@
         "name": "Wellness Gym",
         "city": "Purwokerto"
       },
-      "klienUrl": "https://book.xnkbooking.my.id/"
+      "klienUrl": "https://book.xnkbooking.my.id/",
+      "panelUrl": "https://xnk.my.id/",
+      "infoUrl": "https://xnkbooking.my.id/"
     }
   ],
   "vapidPublic": "BOklZiapfSlZEYl7y3P9GhETDMoBlupyv2UoRFROqAfPXZ9ugV2LwnPrMjk__BtJB2vHR2XRHaDSvV7HQUhflfA"
