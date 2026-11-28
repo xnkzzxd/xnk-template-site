@@ -24,6 +24,16 @@
         "name": "Tanjung Pinang",
         "city": "Kepulauan Riau"
       }
+    },
+    {
+      "slug": "jizdan",
+      "brand": "Jizdan",
+      "exec": "https://script.google.com/macros/s/AKfycbyVOm1Csc7UmCxPe3buHUkZkIaskguIRgT8dvTJw_aaTAX5UYY_-irjDi1X6vOD1BgJ/exec",
+      "url": "https://xnkbooking.my.id/",
+      "place": {
+        "name": "Wellness Gym",
+        "city": "Purwokerto"
+      }
     }
   ],
   "vapidPublic": "BOklZiapfSlZEYl7y3P9GhETDMoBlupyv2UoRFROqAfPXZ9ugV2LwnPrMjk__BtJB2vHR2XRHaDSvV7HQUhflfA"
